@@ -42,8 +42,9 @@ print(lst)
 
 lst.extend(['Kubernetes', 'Docker', 'Terraform'])
 print(lst)
-
 # sum(lst) <-- Will not work as the list contains non-numeric values
 
 lst.pop(2)
 print(lst)
+
+##########
